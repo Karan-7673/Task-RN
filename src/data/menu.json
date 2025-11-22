@@ -1,0 +1,92 @@
+{
+    "result": [
+        {
+            "MenuName": "Panjabi Thali",
+            "rate": "230.00"
+        },
+        {
+            "MenuName": "Sweet Corn Soup",
+            "rate": "120.00"
+        },
+        {
+            "MenuName": "Veg Clear Soup",
+            "rate": "140.00"
+        },
+        {
+            "MenuName": "Veg Manchow Soup",
+            "rate": "150.00"
+        },
+        {
+            "MenuName": "Veg Manchurian",
+            "rate": "125.00"
+        },
+        {
+            "MenuName": "Chicken Handi Spicy",
+            "rate": "250.00"
+        },
+        {
+            "MenuName": "Paneer Bhurji(DRY)Y",
+            "rate": "150.00"
+        },
+        {
+            "MenuName": "Paneer Kadai(P)R",
+            "rate": "230.00"
+        },
+        {
+            "MenuName": "Paneer Handi",
+            "rate": "210.00"
+        },
+        {
+            "MenuName": "Roti",
+            "rate": "20.00"
+        },
+        {
+            "MenuName": "Butter Roti",
+            "rate": "15.00"
+        },
+        {
+            "MenuName": "Naan",
+            "rate": "30.00"
+        },
+        {
+            "MenuName": "Veg Angara (P)R",
+            "rate": "250.00"
+        },
+        {
+            "MenuName": "Veg Meals",
+            "rate": "150.00"
+        },
+        {
+            "MenuName": "Maharashtrain Thali",
+            "rate": "180.00"
+        },
+        {
+            "MenuName": "Veg Banjara (P)R",
+            "rate": "250.00"
+        },
+        {
+            "MenuName": "Veg Maratha (M)R",
+            "rate": "250.00"
+        },
+        {
+            "MenuName": "bhakari",
+            "rate": "10.00"
+        },
+        {
+            "MenuName": "Jalebi",
+            "rate": "50.00"
+        },
+        {
+            "MenuName": "surmai thali",
+            "rate": "325.00"
+        },
+        {
+            "MenuName": "bangada thali",
+            "rate": "350.00"
+        },
+        {
+            "MenuName": "paplet thali",
+            "rate": "400.00"
+        }
+    ]
+}

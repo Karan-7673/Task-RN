@@ -1,0 +1,54 @@
+{
+    "result": [
+        {
+            "TableID": "3731",
+            "TableName": "C1",
+            "TableStatus": "1"
+        },
+        {
+            "TableID": "3732",
+            "TableName": "C2",
+            "TableStatus": null
+        },
+        {
+            "TableID": "3733",
+            "TableName": "C3",
+            "TableStatus": "1"
+        },
+        {
+            "TableID": "3734",
+            "TableName": "C4",
+            "TableStatus": "1"
+        },
+        {
+            "TableID": "5320",
+            "TableName": "C5",
+            "TableStatus": "2"
+        },
+        {
+            "TableID": "5401",
+            "TableName": "F1",
+            "TableStatus": "1"
+        },
+        {
+            "TableID": "5402",
+            "TableName": "F2",
+            "TableStatus": "1"
+        },
+        {
+            "TableID": "5403",
+            "TableName": "F3",
+            "TableStatus": null
+        },
+        {
+            "TableID": "5404",
+            "TableName": "F4",
+            "TableStatus": null
+        },
+        {
+            "TableID": "5405",
+            "TableName": "F5",
+            "TableStatus": null
+        }
+    ]
+}
