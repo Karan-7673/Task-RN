@@ -1,13 +1,13 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import TablesPage from "./Components/TablePage.jsx";
-import TableMenuPage from "./Components/TableMenuPage.Jsx";
+import TableMenu from "./Components/TableMenu.jsx";
 
 function App() {
   return (
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<TablesPage />} />
-        <Route path="/table/:name" element={<TableMenuPage />} />
+        <Route path="/table/:name" element={<TableMenu />} />
       </Routes>
     </BrowserRouter>
   );

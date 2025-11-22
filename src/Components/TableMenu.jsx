@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { useLocation } from "react-router-dom";
 import menuData from "../data/menu.json";
 
-const TableMenuPage = () => {
+const TableMenu = () => {
     const { state: table } = useLocation();
     const [search, setSearch] = useState("");
 
@@ -86,4 +86,4 @@ const TableMenuPage = () => {
     );
 };
 
-export default TableMenuPage;
+export default TableMenu;
